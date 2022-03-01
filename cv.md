@@ -87,9 +87,11 @@ console.log(revrot("123456987654", 6))
 
 * HTML and CSS tutorial on youtube
 * JavaScript on learnjavascript.ru(in progeress)
+* Rs school(in progress)
 
 ******************************
 
 ## Languages
 
 * English - Advanced(C1), practice with Americans
+* Russian - Native
